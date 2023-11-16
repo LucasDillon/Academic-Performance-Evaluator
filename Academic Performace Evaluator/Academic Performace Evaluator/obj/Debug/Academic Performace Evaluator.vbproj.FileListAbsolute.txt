@@ -1,0 +1,45 @@
+F:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\bin\Debug\Academic Performace Evaluator.exe.config
+F:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\bin\Debug\Academic Performace Evaluator.exe
+F:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\bin\Debug\Academic Performace Evaluator.pdb
+F:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\bin\Debug\Academic Performace Evaluator.xml
+F:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic Performace Evaluator.vbproj.AssemblyReference.cache
+F:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic_Performace_Evaluator.frm_classView.resources
+F:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic_Performace_Evaluator.frm_createClass.resources
+F:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic_Performace_Evaluator.frm_logIn.resources
+F:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic_Performace_Evaluator.frm_menu.resources
+F:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic_Performace_Evaluator.Resources.resources
+F:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic Performace Evaluator.vbproj.GenerateResource.cache
+F:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic Performace Evaluator.vbproj.CoreCompileInputs.cache
+F:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic Performace Evaluator.exe
+F:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic Performace Evaluator.xml
+F:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic Performace Evaluator.pdb
+D:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\bin\Debug\Academic Performace Evaluator.exe.config
+D:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\bin\Debug\Academic Performace Evaluator.exe
+D:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\bin\Debug\Academic Performace Evaluator.pdb
+D:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\bin\Debug\Academic Performace Evaluator.xml
+D:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic Performace Evaluator.vbprojAssemblyReference.cache
+D:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic_Performace_Evaluator.frm_classView.resources
+D:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic_Performace_Evaluator.frm_createClass.resources
+D:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic_Performace_Evaluator.frm_logIn.resources
+D:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic_Performace_Evaluator.frm_menu.resources
+D:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic_Performace_Evaluator.Resources.resources
+D:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic Performace Evaluator.vbproj.GenerateResource.cache
+D:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic Performace Evaluator.vbproj.CoreCompileInputs.cache
+D:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic Performace Evaluator.exe
+D:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic Performace Evaluator.xml
+D:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic Performace Evaluator.pdb
+E:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\bin\Debug\Academic Performace Evaluator.exe.config
+E:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\bin\Debug\Academic Performace Evaluator.exe
+E:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\bin\Debug\Academic Performace Evaluator.pdb
+E:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\bin\Debug\Academic Performace Evaluator.xml
+E:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic Performace Evaluator.vbprojAssemblyReference.cache
+E:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic_Performace_Evaluator.frm_classView.resources
+E:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic_Performace_Evaluator.frm_createClass.resources
+E:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic_Performace_Evaluator.frm_logIn.resources
+E:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic_Performace_Evaluator.frm_menu.resources
+E:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic_Performace_Evaluator.Resources.resources
+E:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic Performace Evaluator.vbproj.GenerateResource.cache
+E:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic Performace Evaluator.vbproj.CoreCompileInputs.cache
+E:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic Performace Evaluator.exe
+E:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic Performace Evaluator.xml
+E:\!Colllege\Computer Science\Year 2\NEA\Solutions\Academic Performace Evaluator\Academic Performace Evaluator\obj\Debug\Academic Performace Evaluator.pdb
